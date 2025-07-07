@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:13
+#EXTINF:12.933333,
+https://gitee.com/sjikowlp/koxosp/raw/master/9V5V6blqoutput000.ts
+#EXTINF:2.666667,
+https://gitee.com/sjikowlp/koxosp/raw/master/9V5V6blqoutput001.ts
+#EXT-X-ENDLIST
