@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:9.448056,
+https://gitee.com/sjikowlp/xkols/raw/master/SHPes4lxoutput000.ts
+#EXTINF:4.166667,
+https://gitee.com/sjikowlp/xkols/raw/master/SHPes4lxoutput001.ts
+#EXTINF:2.500000,
+https://gitee.com/sjikowlp/xkols/raw/master/SHPes4lxoutput002.ts
+#EXT-X-ENDLIST
