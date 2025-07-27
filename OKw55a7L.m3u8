@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.499822,
+https://gitee.com/sjikowlp/xkcosw/raw/master/OKw55a7Loutput000.ts
+#EXTINF:10.416489,
+https://gitee.com/sjikowlp/xkcosw/raw/master/OKw55a7Loutput001.ts
+#EXTINF:10.416489,
+https://gitee.com/sjikowlp/xkcosw/raw/master/OKw55a7Loutput002.ts
+#EXTINF:9.708167,
+https://gitee.com/sjikowlp/xkcosw/raw/master/OKw55a7Loutput003.ts
+#EXT-X-ENDLIST
