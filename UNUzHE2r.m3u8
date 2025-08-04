@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:16
+#EXTINF:15.750000,
+https://gitee.com/sjikowlp/ciolxx/raw/master/UNUzHE2routput000.ts
+#EXTINF:15.562500,
+https://gitee.com/sjikowlp/ciolxx/raw/master/UNUzHE2routput001.ts
+#EXTINF:12.750000,
+https://gitee.com/sjikowlp/ciolxx/raw/master/UNUzHE2routput002.ts
+#EXTINF:15.625000,
+https://gitee.com/sjikowlp/ciolxx/raw/master/UNUzHE2routput003.ts
+#EXTINF:9.562500,
+https://gitee.com/sjikowlp/ciolxx/raw/master/UNUzHE2routput004.ts
+#EXT-X-ENDLIST
