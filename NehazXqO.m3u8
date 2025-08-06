@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:16
+#EXTINF:15.750000,
+https://gitee.com/sjikowlp/ciolxx/raw/master/NehazXqOoutput000.ts
+#EXTINF:15.625000,
+https://gitee.com/sjikowlp/ciolxx/raw/master/NehazXqOoutput001.ts
+#EXTINF:14.937500,
+https://gitee.com/sjikowlp/ciolxx/raw/master/NehazXqOoutput002.ts
+#EXT-X-ENDLIST
