@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:16
+#EXTINF:15.180000,
+https://gitee.com/sjikowlp/ciolxx/raw/master/G4uzjCF1output000.ts
+#EXTINF:15.000000,
+https://gitee.com/sjikowlp/ciolxx/raw/master/G4uzjCF1output001.ts
+#EXTINF:15.060000,
+https://gitee.com/sjikowlp/ciolxx/raw/master/G4uzjCF1output002.ts
+#EXTINF:7.560000,
+https://gitee.com/sjikowlp/ciolxx/raw/master/G4uzjCF1output003.ts
+#EXT-X-ENDLIST
