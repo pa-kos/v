@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:9
+#EXTINF:8.721133,
+https://gitee.com/sjikowlp/ckos0w0/raw/master/N70gCn2Doutput000.ts
+#EXTINF:1.284500,
+https://gitee.com/sjikowlp/ckos0w0/raw/master/N70gCn2Doutput001.ts
+#EXT-X-ENDLIST
