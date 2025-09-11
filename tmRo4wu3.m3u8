@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.333333,
+https://gitee.com/sjikowlp/xkoc0v/raw/master/tmRo4wu3output000.ts
+#EXTINF:3.766667,
+https://gitee.com/sjikowlp/xkoc0v/raw/master/tmRo4wu3output001.ts
+#EXT-X-ENDLIST
