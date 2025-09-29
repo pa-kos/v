@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.080000,
+https://gitee.com/sjikowlp/xoc9a0/raw/master/FuwfaRKSoutput000.ts
+#EXTINF:3.120000,
+https://gitee.com/sjikowlp/xoc9a0/raw/master/FuwfaRKSoutput001.ts
+#EXT-X-ENDLIST
