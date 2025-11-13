@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:7
+#EXTINF:6.365189,
+https://gitee.com/sjikowlp/ck9i7s/raw/master/iXdivNaSoutput000.ts
+#EXTINF:3.799111,
+https://gitee.com/sjikowlp/ck9i7s/raw/master/iXdivNaSoutput001.ts
+#EXTINF:5.965278,
+https://gitee.com/sjikowlp/ck9i7s/raw/master/iXdivNaSoutput002.ts
+#EXT-X-ENDLIST
